@@ -38,7 +38,12 @@ The dataset used for this case study is sourced from 'UpGrad'. It includes vario
 
 1. Clone the repository:
 git clone https://github.com/Parth-Mudgal/MLR-Case-Study.git
+
+2. Navigate to the project directory:
 cd MLR-Case-Study
+
+3. Run Jupyter Notebook:
+jupyter notebook Geely Autos case Study.ipynb
 
 
 
