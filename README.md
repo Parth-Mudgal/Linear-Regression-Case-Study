@@ -27,7 +27,7 @@ The dataset used for this case study is sourced from 'UpGrad'. It includes vario
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - Jupyter Notebooks
 - pandas
 - numpy
