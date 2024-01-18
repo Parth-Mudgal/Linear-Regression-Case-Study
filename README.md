@@ -1,4 +1,4 @@
-# Geely Autos - Multiple Linear Regression Case Study
+# Geely Autos - Linear Regression Case Study
 Embark on a data-driven journey through Geely Auto's venture into the US market! 🚗📊 This case study delves into the significant factors influencing car prices, providing insights through a Python-powered multiple linear regression model. Uncover the dynamics shaping Geely's pricing strategy in the competitive US automobile market. 🌐🔍
 
 ## Overview
